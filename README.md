@@ -21,7 +21,7 @@ This is an application that I use React.js
 
 ### Links
 
-- Live Site URL: [Live Site]()
+- Live Site URL: [Live Site](https://languagecards-react.netlify.app/)
 
 ## My process
 
